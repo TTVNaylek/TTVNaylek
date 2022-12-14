@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TTVNaylek
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C++/Python and Java
+- 💞️ I’m looking to collaborate on minecraft project
+- 📫 How to reach me ...
+
