@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **Discord: Naylek_#0909**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
