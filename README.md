@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttvnaylek&label=Profile%20views&color=0e75b6&style=flat" alt="ttvnaylek" /> </p>
 
-- 🔭 I’m currently working on **video game**
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **C++/Python and C#**
 
