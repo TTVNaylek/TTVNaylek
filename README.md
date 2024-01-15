@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttvnaylek&label=Profile%20views&color=0e75b6&style=flat" alt="ttvnaylek" /> </p>
 
-- 🔭 I’m currently working on **Password Manager for an association**
+- 🔭 I’m currently working on a **Password Manager for an association**
 
 - 🌱 I’m currently learning **Typescript, C++, C#, Python and Networks**
 
