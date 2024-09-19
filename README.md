@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    🔭 I’m currently working on a Password Manager for an association<br><br>    🌱 I’m currently learning Typescript, C++, C#, Python and Networks<br><br>    👀 I’m interested in App/Web Dev & Cybersecurity<br><br>    📫 How to reach me Discord Naylek_<br>
+<br><br>    🔭 I’m currently working on a Password Manager for an association<br><br>    🌱 I’m currently learning Typescript, C++, C#, Python and Networks<br><br>    👀 I’m interested in App/Web Dev & Cybersecurity<br><br>    📫 Reach me on Discord Naylek_<br>
 
 
 # 💻 Tech Stack:
