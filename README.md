@@ -8,7 +8,7 @@ I'm **Naylek_**, a passionate French student specializing in Computer Science an
 
 ## Skills & Technologies
 
-html,css,js,ts,express,nodejs,postgres,mongodb,c,cpp,py,java,linux,windows
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,express,nodejs,postgres,mongodb,c,cpp,py,java,linux,windows&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
